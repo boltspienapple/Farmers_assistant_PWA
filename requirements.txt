@@ -1,0 +1,14 @@
+time
+requests
+flask
+matplotlib
+werkzeug
+sqlalchemy
+psycopg2
+tensorflow
+numpy
+keras
+pillow
+h5py
+wheel
+gunicorn
